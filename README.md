@@ -1,10 +1,10 @@
-# PS-Stego: PowerShell Steganography Tool
+# PS-Stega: PowerShell Steganography Tool
 
 A simple yet powerful steganography utility written in PowerShell that allows you to hide ZIP files within images.
 
 ## Overview
 
-PS-Stego provides two different steganography methods:
+PS-Stega provides two different steganography methods:
 
 1. **Append Method**: Simply appends ZIP data to the end of any image file
 2. **WebP Chunk Method**: Embeds ZIP data as a custom chunk within WebP images
