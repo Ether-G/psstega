@@ -96,7 +96,7 @@ This technique takes advantage of the WebP format's chunk-based structure, allow
 
 ## License
 
-[MIT License](LICENSE)
+MIT License
 
 ## Contributing
 
